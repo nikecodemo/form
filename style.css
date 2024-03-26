@@ -207,7 +207,7 @@ font-family: var(--font-family); }
 @media screen and (min-width: 48em){
   .columns-5e{
     display: grid;
-    grid-template-columns:    1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: calc(var(--grid-gap)*2);
     padding: var(--spacing-large);
   }
