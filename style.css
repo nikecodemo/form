@@ -1,0 +1,11 @@
+ ol, ul { 
+     list-style-type: none;
+      }
+
+      body{
+        background: #faf2e4;
+      }
+
+      legend{
+        color: #d1633c;
+      }
